@@ -32,12 +32,12 @@ em SQL sobre dado real e conferência automática de comissão em Python.
 
 ### Stack
 
-**Dados** · PostgreSQL · SQL Server · DBeaver · modelagem, DDL/DML e consulta analítica
-**Linguagens** · Python · SQL · JavaScript
-**Back-end** · Node.js · Express
-**Integração e automação** · APIs REST · n8n
-**IA** · integração com API de modelo de linguagem · recuperação de dado em tempo de consulta · modelo local com Ollama
-**Outros** · Git · Excel · Figma
+- **Dados** — PostgreSQL, SQL Server, DBeaver; modelagem, DDL/DML e consulta analítica
+- **Linguagens** — Python, SQL, JavaScript
+- **Back-end** — Node.js, Express
+- **Integração e automação** — APIs REST, n8n
+- **IA** — integração com API de modelo de linguagem, recuperação de dado em tempo de consulta, modelo local com Ollama
+- **Outros** — Git, Excel, Figma
 
 ---
 
