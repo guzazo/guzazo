@@ -4,10 +4,6 @@ Ciência da Computação na UVV, 2º período. Desenvolvo sistemas web com **Pyt
 **PostgreSQL**, construindo com agentes de IA de código (Claude Code e Codex): eu especifico a
 tarefa, reviso o que é gerado, rodo os testes e coloco no ar.
 
-É mais ou menos assim que eu aprendo: o que cai na aula na terça vira problema de verdade na
-quinta. Banco de dados entrou no primeiro semestre e, no mesmo semestre, já estava rodando em
-cima do ERP da empresa onde trabalho.
-
 ---
 
 ### Em destaque: sistema de gestão da Comercinox *(repositório privado)*
